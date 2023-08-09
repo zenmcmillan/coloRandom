@@ -3,6 +3,10 @@
 ### Abstract:
 This is an app that displays palettes of colors generated randomly. Users can save color palettes as well as delete color palettes.
 
+### Application link:
+
+<https://zenmcmillan.github.io/coloRandom/>
+
 ### Installation Instructions:
 1. Navigate to [GitHub Pages link](https://ben-rosner-williamsburg.github.io/coloRandom/)
 2. Enjoy playing around with color palettes!
